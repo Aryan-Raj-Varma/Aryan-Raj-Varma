@@ -11,8 +11,7 @@
 🎓 Electronics Graduate from **Anurag College of Engineering**  
 🛠️ Trained in **Embedded Systems (Vector India)** with hands-on experience in **C, RTOS, Linux, UART, I2C, SPI, ARM (LPC2148)**  
 📦 Built real-time projects like:
-- 🔐 **RFID + PIN-based Secure ATM System**
-- 🤖 **Automated Self-Feeding Assistive Robotic Arm**
+- 🔐 **ATM System Design using Database Integration**
 - ⏰ **Time-Driven Access Control System using RTC & Keypad**
 
 🌱 Currently enhancing skills in:
