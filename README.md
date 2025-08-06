@@ -18,7 +18,6 @@
 🌱 Currently enhancing skills in:
 - Linux Kernel Modules & Device Drivers  
 - Embedded C Optimization  
-- IoT Cloud Integration
 
 ---
 
@@ -39,37 +38,20 @@
 
 ### 📂 Featured Projects
 
-🔐 [**Secure RFID-based ATM System**](https://github.com/yourusername/RFID-ATM-System)  
+🔐 [**ATM System Design using Database Integration**](https://github.com/Aryan-Raj-Varma/ATM-System-Design-with-Database-Integration)  
 A real-time banking system using RFID + PIN authentication with LPC2148 microcontroller, integrated with UART-based PC communication and secure backend in C.
 
-🤖 [**Assistive Robotic Arm**](https://github.com/yourusername/Robotic-Arm-Feeding-System)  
-A DoF-based self-feeding robotic arm project to aid upper-limb-challenged individuals. My role: **Team Lead + Embedded Programmer**.
-
-⏰ [**Time-Based Access Control System**](https://github.com/yourusername/RTC-Access-Control)  
+⏰ [**Time Driven Access Control System**](https://github.com/Aryan-Raj-Varma/Time_Driven_Access_Control_System)  
 An embedded system using RTC, keypad, and LCD to allow access only in user-defined time windows with buzzer alerts.
 
-🗃️ [**To-Do List App (C++)**](https://github.com/yourusername/ToDoList-App)  
+🗃️ [**To-Do List**](https://github.com/Aryan-Raj-Varma/Todo_list)  
 A file-based mini project managing tasks in C++ using OOP concepts and file I/O.
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" />
-</p>
 
 ---
 
 ### 📫 Let's Connect!
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/yourlinkedin)  
-- 📧 Email: your.email@example.com  
+- 💼 [LinkedIn](linkedin.com/in/aryan-raj-varma-koricherla-255078265)  
+- 📧 Email: aryansunny2002@gmail.com  
 - 💬 Feel free to reach out for collaboration, hiring, or discussion in embedded tech!
-
----
-
-⭐ _“I build systems that talk, think, and react — from low-level drivers to user-level logic.”_
 
